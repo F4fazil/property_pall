@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "85631613025",
+    "project_id": "propertypall",
+    "storage_bucket": "propertypall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85631613025:android:104a15909f1a5ec5e81220",
+        "android_client_info": {
+          "package_name": "com.example.propertpall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhXGbBPld9rzqbfCN-klv-5h-rB_y06AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85631613025:android:df1b212dcd1117aae81220",
+        "android_client_info": {
+          "package_name": "com.example.propertypall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhXGbBPld9rzqbfCN-klv-5h-rB_y06AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
