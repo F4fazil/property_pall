@@ -1,3 +1,2 @@
 # propertypall
-
-![PROPERTY APP](https://github.com/user-attachments/assets/09e1bae7-13c5-4851-b4bb-9749cbc8fa9c)
+![Green Gradient Application Showcase Presentation](https://github.com/user-attachments/assets/305bfbe9-0779-4cdd-a4c4-cd56a75f2b29)
